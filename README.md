@@ -14,4 +14,4 @@ I am a passionate developer specializing in Mobile App Development (Java/Android
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[niksyakir]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niksyakir&show_icons=true&theme=radical)

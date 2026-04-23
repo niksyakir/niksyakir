@@ -1,9 +1,9 @@
 # Hi there, I'm Nik Muhammad Syakir! 👋
 
 ### 🚀 Software Engineering Student @ Universiti Malaya (CGPA 3.89)
-I am a passionate developer specializing in Mobile App Development (Java/Android) and Software Architecture. Currently seeking a 24-week internship opportunity!
+I am a passionate developer specializing in Web Programming, Software Modelling and Mobile App Development (Java/Android). Currently seeking a 24-week internship opportunity!
 
-- 🛠 Currently working on: **SpiderBot@Work** & **Budget Tracker**
+- 🛠 Currently working on: **Budget Tracker**
 - 🌱 Learning: **Flutter** and **Advanced AI Integration**
 - 💬 Ask me about: **Java, Android Studio, and Firebase**
 
